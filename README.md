@@ -90,6 +90,10 @@ Calculates the average number of pizzas purchased in each order.
 ---
 
 # 📷 Dashboard Preview
+<img width="1366" height="768" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/cc0d0f8a-39a2-46cd-a84f-73c1c361ad26" />
+
+<img width="1366" height="768" alt="Screenshot (527)" src="https://github.com/user-attachments/assets/53616a33-1741-4d22-9bac-2cee775bd33e" />
+
 
 
 
