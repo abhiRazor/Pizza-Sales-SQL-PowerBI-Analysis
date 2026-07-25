@@ -151,24 +151,6 @@ Calculates the average number of pizzas purchased in each order.
 
 ---
 
-# 📁 Repository Structure
-
-Pizza-Sales-Analysis
-
-├── Dataset/
-
-├── SQL/
-
-├── PowerBI/
-
-├── Images/
-
-├── README.md
-
-└── LICENSE
-
----
-
 # 👨‍💻 Skills Demonstrated
 
 - SQL
