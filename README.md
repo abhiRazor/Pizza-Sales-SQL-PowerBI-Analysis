@@ -28,7 +28,7 @@ The business wants to answer the following questions:
 
 ## 🛠 Tech Stack
 
-- SQL Server
+- PostgreSQL Server
 - Power BI
 - DAX
 - Power Query
